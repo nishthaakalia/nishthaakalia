@@ -2,25 +2,10 @@
 
 ![Nishtha Kalia · BCA, Computer Science and Applications · Chandigarh, India](./assets/header.svg)
 
-![BCA](https://img.shields.io/badge/BCA-Computer%20Science%20%26%20Applications-6495ED?style=for-the-badge&labelColor=3E6FD8)
-![MCM DAV College for Women](https://img.shields.io/badge/MCM%20DAV%20College%20for%20Women-Panjab%20University-8FA8F0?style=for-the-badge&labelColor=3E6FD8)
-![Chandigarh, India](https://img.shields.io/badge/📍-Chandigarh%2C%20India-BFE3FA?style=for-the-badge&labelColor=6495ED)
-
 </div>
 
-### 🌼 Hello, I'm Nishtha
-
-I'm a BCA student in the Department of Computer Science and Applications at Mehr Chand Mahajan DAV College for Women,
-Panjab University, Chandigarh. I'm interested in machine learning that can be trusted: careful data handling,
-honest evaluation, calibrated confidence and explanations that are actually checked.
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="70%"/></div>
-
-### 🎓 Education
-
-| | |
-|---|---|
-| **Bachelor of Computer Applications (BCA)** | Department of Computer Science and Applications, Mehr Chand Mahajan DAV College for Women, Panjab University, Chandigarh, India |
+I'm a BCA student at the Department of Computer Science and Applications, Mehr Chand Mahajan DAV College for Women, Panjab University, Chandigarh.
+I'm interested in machine learning that can be trusted: leakage-aware data splits, calibrated confidence and explanations that are actually tested.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="70%"/></div>
 
@@ -30,51 +15,19 @@ honest evaluation, calibrated confidence and explanations that are actually chec
 
 [![NEURO//SCAN: Brain Tumour MRI Classification with EfficientNet-B0 and explainable AI. v2 test accuracy 91.9%, macro-F1 0.919, four classes, leakage-aware split. Click to open the live demo.](./assets/featured-neuroscan.png)](https://nishthaakalia.github.io/brain-tumor-mri-classification/)
 
-<sub>Click the banner to open the live in-browser demo.</sub>
+**[Brain Tumour MRI Classification: Leakage-Aware, Calibrated and Explainable EfficientNet-B0](https://github.com/nishthaakalia/brain-tumor-mri-classification)**<br>
+4 classes · v2: 91.9% test accuracy, 0.919 macro-F1 · temperature scaling · 6 sanity-checked XAI methods (Grad-CAM, Grad-CAM++, Integrated Gradients, occlusion, KernelSHAP, LIME) · in-browser ONNX demo
 
-</div>
-
-**[Brain Tumour MRI Classification: Leakage-Aware, Calibrated and Explainable EfficientNet-B0](https://github.com/nishthaakalia/brain-tumor-mri-classification)**: four-way brain MRI
-slice classification (glioma, meningioma, pituitary tumour, no tumour) on the Kaggle Brain Tumor MRI Dataset.
-
-- 🔍 **Leakage-aware split**: a perceptual-hash audit finds near-duplicates shared by the official Training and Testing folders and removes them from training.
-- 📈 **v2 results** on the 1,600-image Testing folder: **91.9% accuracy**, **0.919 macro-F1**, **0.987 macro ROC-AUC** (v1: 93.4%; v2 is preferred because its split is cleaner).
-- 🌡️ **Calibration**: temperature scaling lowers the expected calibration error from 0.070 to 0.052, with an "uncertain" flag for low-confidence predictions.
-- 🧠 **Six sanity-checked explanation methods**: Grad-CAM, Grad-CAM++, Integrated Gradients, occlusion, KernelSHAP and LIME, tested with deletion/insertion faithfulness and a model-randomisation check.
-- 🌐 **In-browser demo**: the model runs as ONNX in the browser, so images never leave the device. Research and education only, not a medical device.
-
-<div align="center">
-
-[![Live demo](https://img.shields.io/badge/▶%20Live%20demo-NEURO%2F%2FSCAN-6495ED?style=for-the-badge&logo=githubpages&logoColor=white)](https://nishthaakalia.github.io/brain-tumor-mri-classification/)
-[![White paper v2](https://img.shields.io/badge/📄%20White%20paper-v2%20PDF-3E6FD8?style=for-the-badge)](https://github.com/nishthaakalia/brain-tumor-mri-classification/blob/main/v2/paper/brain_tumor_mri_white_paper.pdf)
-[![Repository](https://img.shields.io/badge/Repository-brain--tumor--mri--classification-8FA8F0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishthaakalia/brain-tumor-mri-classification)
+[![Live demo](https://img.shields.io/badge/Live%20demo-NEURO%2F%2FSCAN-6495ED?style=for-the-badge&logo=githubpages&logoColor=white)](https://nishthaakalia.github.io/brain-tumor-mri-classification/)
+[![White paper v2](https://img.shields.io/badge/White%20paper-v2%20PDF-3E6FD8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/nishthaakalia/brain-tumor-mri-classification/blob/main/v2/paper/brain_tumor_mri_white_paper.pdf)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-8FA8F0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishthaakalia/brain-tumor-mri-classification)
 [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-1E3A6E?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)](https://colab.research.google.com/github/nishthaakalia/brain-tumor-mri-classification/blob/main/v2/notebooks/01_data_and_deduplication.ipynb)
 
 </div>
 
-<details>
-<summary><b>All five Colab notebooks (v2)</b></summary>
+### 📚 Publication
 
-| # | Notebook | |
-|---|---|---|
-| 1 | Data and deduplication | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nishthaakalia/brain-tumor-mri-classification/blob/main/v2/notebooks/01_data_and_deduplication.ipynb) |
-| 2 | Training EfficientNet-B0 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nishthaakalia/brain-tumor-mri-classification/blob/main/v2/notebooks/02_training_efficientnet_b0.ipynb) |
-| 3 | Evaluation and calibration | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nishthaakalia/brain-tumor-mri-classification/blob/main/v2/notebooks/03_evaluation_and_calibration.ipynb) |
-| 4 | Explainable AI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nishthaakalia/brain-tumor-mri-classification/blob/main/v2/notebooks/04_explainable_ai.ipynb) |
-| 5 | ONNX export and web demo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nishthaakalia/brain-tumor-mri-classification/blob/main/v2/notebooks/05_onnx_export_and_web_demo.ipynb) |
-
-The [v1 white paper](https://github.com/nishthaakalia/brain-tumor-mri-classification/blob/main/v1/paper/brain_tumor_mri_white_paper.pdf) and v1 code are kept in [`v1/`](https://github.com/nishthaakalia/brain-tumor-mri-classification/tree/main/v1) for comparison.
-
-</details>
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="70%"/></div>
-
-### 📚 Research & publications
-
-- **Nishtha Kalia** · *Brain Tumour MRI Classification: Leakage-Aware, Calibrated and Explainable EfficientNet-B0*, white paper, 2026. [v2 PDF](https://github.com/nishthaakalia/brain-tumor-mri-classification/blob/main/v2/paper/brain_tumor_mri_white_paper.pdf) · [v1 PDF](https://github.com/nishthaakalia/brain-tumor-mri-classification/blob/main/v1/paper/brain_tumor_mri_white_paper.pdf)
-- Nikshep Paliwal, Rishabh Aryan, **Nishtha Kalia** · *Responsible AI on the UCI Adult dataset*: a fairness, explainability and governance audit (co-author). [Project repository](https://github.com/Rishabh-bgp/responsible-ai-uci-adult)
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="70%"/></div>
+Co-author (with Nikshep Paliwal and Rishabh Aryan) of *Responsible AI on the UCI Adult dataset: a fairness, explainability and governance audit* · [repository](https://github.com/nishthaakalia/responsible-ai-uci-adult)
 
 ### 🛠️ Tech stack
 
@@ -101,18 +54,6 @@ The [v1 white paper](https://github.com/nishthaakalia/brain-tumor-mri-classifica
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="70%"/></div>
-
-### 🌸 GitHub streak
-
-<div align="center">
-
-![GitHub streak for nishthaakalia](https://streak-stats.demolab.com/?user=nishthaakalia&hide_border=true&background=EAF5FF&ring=6495ED&fire=8FA8F0&currStreakLabel=3E6FD8&sideLabels=3E6FD8&currStreakNum=1E3A6E&sideNums=1E3A6E&dates=6495ED&stroke=BFE3FA)
-
-</div>
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="70%"/></div>
-
 ### 📬 Contact
 
 <div align="center">
@@ -120,7 +61,5 @@ The [v1 white paper](https://github.com/nishthaakalia/brain-tumor-mri-classifica
 [![Email](https://img.shields.io/badge/Email-nishtha.kalia.2411%40gmail.com-6495ED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishtha.kalia.2411@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--7522--1221-3E6FD8?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-7522-1221)
 [![GitHub](https://img.shields.io/badge/GitHub-nishthaakalia-8FA8F0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishthaakalia)
-
-<sub>Thanks for visiting 💙</sub>
 
 </div>

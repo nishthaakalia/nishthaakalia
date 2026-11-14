@@ -23,6 +23,7 @@ I'm interested in machine learning that can be trusted: leakage-aware data split
 - 🔍 **Explainable AI (XAI)**: Grad-CAM, Grad-CAM++, Integrated Gradients, occlusion, KernelSHAP and LIME, with faithfulness and sanity checks.
 - 🌡️ **Model calibration**: temperature scaling and an "uncertain" flag for low-confidence predictions.
 - ⚖️ **Responsible AI and fairness**: co-author of a fairness, explainability and governance audit on the UCI Adult dataset.
+- 🤖 **Agentic AI engineering**: contributor to the *Agentic Engineering* ebook on building secure, human-centred SaaS with AI coding agents.
 - 🌐 **In-browser ML demos**: ONNX models running client-side on GitHub Pages.
 <br clear="right"/>
 
@@ -52,14 +53,15 @@ I'm interested in machine learning that can be trusted: leakage-aware data split
 |---|---|---|
 | [**brain-tumor-mri-classification**](https://github.com/nishthaakalia/brain-tumor-mri-classification) | Leakage-aware, calibrated and explainable EfficientNet-B0 for brain tumour MRI classification (glioma, meningioma, pituitary, no tumour), with v1/v2 white papers and Colab notebooks | [Live demo](https://nishthaakalia.github.io/brain-tumor-mri-classification/) · [v2 white paper](https://github.com/nishthaakalia/brain-tumor-mri-classification/blob/main/v2/paper/brain_tumor_mri_white_paper.pdf) · [v1 white paper](https://github.com/nishthaakalia/brain-tumor-mri-classification/blob/main/v1/paper/brain_tumor_mri_white_paper.pdf) |
 | [**responsible-ai-uci-adult**](https://github.com/nishthaakalia/responsible-ai-uci-adult) (fork) | Fork of the Responsible AI audit on UCI Adult (fairness, SHAP/LIME/permutation explanations, governance crosswalk), the project I co-authored | [Original repository](https://github.com/Rishabh-bgp/responsible-ai-uci-adult) · [FAIR//AUDIT dashboard](https://rishabh-bgp.github.io/responsible-ai-uci-adult/) |
-| [**Agentic-Engineering-Ebook**](https://github.com/nishthaakalia/Agentic-Engineering-Ebook) (fork) | Fork of a notebook-book on building multi-tenant SaaS with coding agents; forked for reading and reference | [Original repository](https://github.com/Rishabh-bgp/Agentic-Engineering-Ebook) |
+| [**Agentic Engineering Ebook**](https://github.com/Rishabh-bgp/Agentic-Engineering-Ebook) · Contributor | *Agentic Engineering: Building Secure, Human-Centered SaaS with AI Tools*, a practical book in notebook form on specifying, generating, verifying and refining multi-tenant SaaS when coding agents write most of the code | [Upstream repository](https://github.com/Rishabh-bgp/Agentic-Engineering-Ebook) · [My fork](https://github.com/nishthaakalia/Agentic-Engineering-Ebook) |
 
 <div align="center"><img src="./assets/divider.svg" alt="Decorative divider of blue roses, blue nemophila flowers and sparkles" width="70%"/></div>
 
-## <img src="./assets/rose.png" height="24" alt="Blue rose icon"/> Research and publications
+## <img src="./assets/rose.png" height="24" alt="Blue rose icon"/> Research, publications and contributions
 
 - **Nishtha Kalia** · *Brain Tumour MRI Classification: Leakage-Aware, Calibrated and Explainable EfficientNet-B0*, white paper, 2026 · [v2 PDF](https://github.com/nishthaakalia/brain-tumor-mri-classification/blob/main/v2/paper/brain_tumor_mri_white_paper.pdf) · [v1 PDF](https://github.com/nishthaakalia/brain-tumor-mri-classification/blob/main/v1/paper/brain_tumor_mri_white_paper.pdf)
 - Nikshep Paliwal, Rishabh Aryan, **Nishtha Kalia** · *Responsible AI on UCI Adult: Fairness, Explainability & Governance Audit* (project title; co-author: literature review, documentation and writing, results validation) · [project repository](https://github.com/nishthaakalia/responsible-ai-uci-adult)
+- Rishabh Aryan<sup>*</sup>, Anju, Satpal, **Nishtha Kalia** · *Agentic Engineering: Building Secure, Human-Centered SaaS with AI Tools*, ebook in notebook form (contributor; <sup>*</sup> corresponding author) · [upstream repository](https://github.com/Rishabh-bgp/Agentic-Engineering-Ebook) · [my fork](https://github.com/nishthaakalia/Agentic-Engineering-Ebook)
 
 <div align="center"><img src="./assets/divider.svg" alt="Decorative divider of blue roses, blue nemophila flowers and sparkles" width="70%"/></div>
 

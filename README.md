@@ -61,7 +61,7 @@ I'm interested in machine learning that can be trusted: leakage-aware data split
 
 - **Nishtha Kalia** · *Brain Tumour MRI Classification: Leakage-Aware, Calibrated and Explainable EfficientNet-B0*, white paper, 2026 · [v2 PDF](https://github.com/nishthaakalia/brain-tumor-mri-classification/blob/main/v2/paper/brain_tumor_mri_white_paper.pdf) · [v1 PDF](https://github.com/nishthaakalia/brain-tumor-mri-classification/blob/main/v1/paper/brain_tumor_mri_white_paper.pdf)
 - Nikshep Paliwal, Rishabh Aryan, **Nishtha Kalia** · *Responsible AI on UCI Adult: Fairness, Explainability & Governance Audit* (project title; co-author: literature review, documentation and writing, results validation) · [project repository](https://github.com/nishthaakalia/responsible-ai-uci-adult)
-- Rishabh Aryan<sup>*</sup>, Anju, Satpal, **Nishtha Kalia** · *Agentic Engineering: Building Secure, Human-Centered SaaS with AI Tools*, ebook in notebook form (contributor; <sup>*</sup> corresponding author) · [upstream repository](https://github.com/Rishabh-bgp/Agentic-Engineering-Ebook) · [my fork](https://github.com/nishthaakalia/Agentic-Engineering-Ebook)
+- Rishabh Aryan<sup>&#42;</sup>, Anju, Satpal, **Nishtha Kalia** · *Agentic Engineering: Building Secure, Human-Centered SaaS with AI Tools*, ebook in notebook form (contributor; <sup>&#42;</sup> corresponding author) · [upstream repository](https://github.com/Rishabh-bgp/Agentic-Engineering-Ebook) · [my fork](https://github.com/nishthaakalia/Agentic-Engineering-Ebook)
 
 <div align="center"><img src="./assets/divider.svg" alt="Decorative divider of blue roses, blue nemophila flowers and sparkles" width="70%"/></div>
 

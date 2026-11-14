@@ -4,12 +4,15 @@
 
 </div>
 
+<img src="./assets/chibi.png" align="right" width="130" alt="Original kawaii chibi-style girl holding blue roses and nemophila flowers"/>
+
 I'm a BCA student at the Department of Computer Science and Applications, Mehr Chand Mahajan DAV College for Women, Panjab University, Chandigarh.
 I'm interested in machine learning that can be trusted: leakage-aware data splits, calibrated confidence and explanations that are actually tested.
+<br clear="right"/>
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="70%"/></div>
 
-### 💙 Featured project
+### 💙 Featured project ✨
 
 <div align="center">
 
@@ -25,11 +28,15 @@ I'm interested in machine learning that can be trusted: leakage-aware data split
 
 </div>
 
-### 📚 Publication
+<div align="center"><img src="./assets/divider.svg" alt="" width="70%"/></div>
+
+### 🌹 Publication
 
 Co-author (with Nikshep Paliwal and Rishabh Aryan) of *Responsible AI on the UCI Adult dataset: a fairness, explainability and governance audit* · [repository](https://github.com/nishthaakalia/responsible-ai-uci-adult)
 
-### 🛠️ Tech stack
+<div align="center"><img src="./assets/divider.svg" alt="" width="70%"/></div>
+
+### 🌸 Tech stack
 
 <div align="center">
 
@@ -54,7 +61,9 @@ Co-author (with Nikshep Paliwal and Rishabh Aryan) of *Responsible AI on the UCI
 
 </div>
 
-### 📬 Contact
+<div align="center"><img src="./assets/divider.svg" alt="" width="70%"/></div>
+
+### 💌 Contact
 
 <div align="center">
 
